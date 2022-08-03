@@ -1,5 +1,5 @@
 # SaveSpace
-This is a solution to the UI Design by [@Mathematechy] in which I helped translate the UI design into actual code by building it using HTML, CSS and JavaScript.
+This is a solution to the UI Design by [@Mathematechy](https://www.twitter.com/mathematechy) in which I helped translate the UI design into actual code by building it using HTML, CSS and JavaScript.
 
 ## Table of contents
 
